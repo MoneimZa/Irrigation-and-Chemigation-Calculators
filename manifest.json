@@ -1,0 +1,10 @@
+{
+  "name": "Irrigation and Chemigation Calculators",
+  "short_name": "Irrigation Calc",
+  "description": "Browser-based irrigation and chemigation calculators with total acres, young orchard, and direct wetted-area input.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f6f8f5",
+  "theme_color": "#1f6f4a",
+  "icons": []
+}
